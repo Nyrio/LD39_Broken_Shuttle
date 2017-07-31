@@ -1,0 +1,21 @@
+#player
+50 100 -90 1
+
+#planets
+220 200 0 27 0.1 sprites/p_60_b.png
+380 280 0 47 0.7 sprites/p_100_a.png
+600 90 0 37 0.6 sprites/p_80_a.png
+
+#station
+545 210
+
+#intro
+0:Nice place, don't you think?
+1:We're almost dead...
+1:and you're thought goes to pink planets?
+0:I enjoy every moment of my life.
+1:You'll have much time to enjoy this solar system
+1:if we can't reach the station...
+
+#end
+0:I hope I'll come back to this solar system

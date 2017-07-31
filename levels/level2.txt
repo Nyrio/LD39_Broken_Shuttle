@@ -1,0 +1,16 @@
+#player
+100 150 0 1
+
+#planets
+
+#station
+500 300
+
+#intro
+1:There's a station on the right
+0:We can reach it if we use the left engine
+1:Ok but don't accelerate too much
+1:If we miss the station we're lost...
+
+#end
+1:Whew, better here

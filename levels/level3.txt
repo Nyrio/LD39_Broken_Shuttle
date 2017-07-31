@@ -1,0 +1,18 @@
+#player
+100 150 0 1
+
+#planets
+350 250 0 65 0.8 sprites/p_140_a.png
+
+#station
+600 350
+
+#intro
+1:There's a planet between the station and us...
+0:We will have to use its gravity to reach the station
+1:Beware not to crash on the planet, please
+0:Thanks for the advice
+0:I would not have thought of it myself
+
+#end
+0:Are you ok now, yellow belly?

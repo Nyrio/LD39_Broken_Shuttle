@@ -1,0 +1,17 @@
+#player
+100 150 0 1
+
+#planets
+
+#station
+600 160
+
+#intro
+0:Arf, bad news... The main motor stopped working
+1:It seems to come from the Nuclear Fusion Reactor,
+1:we will soon run out of power
+0:If we can make it to this station over here, we're safe
+1:Ok let's use the emergency engines.
+
+#end
+0:That was a near go !

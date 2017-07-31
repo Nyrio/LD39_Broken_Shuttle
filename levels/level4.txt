@@ -1,0 +1,18 @@
+#player
+100 150 0 1
+
+#planets
+360 310 0 75 1 sprites/earth.png
+360+140*cos(pi*t/4) 310+140*sin(pi*t/4) -45*t 17 0.01 sprites/moon.png
+
+#station
+600 350
+
+#intro
+0:Look at this one, it has a satellite
+1:It's called Earth. I'd really like to visit it
+0:But it is strictly forbidden by the Federation
+1:Yes, I know. Wars, technological backwardness...
+
+#end
+0:Finally at the station, buddy!

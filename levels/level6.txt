@@ -1,0 +1,18 @@
+#player
+70 120 0 1
+
+#planets
+410 280 0 86 1 sprites/p_180_a.png
+410+160*cos(pi*t/4) 280+160*sin(pi*t/4) -45*t 37 0.05 sprites/p_80_b.png
+410+240*cos(pi*t/6) 280+240*sin(-pi*t/6) 30*t 27 0.02 sprites/p_60_a.png
+
+#station
+700 420
+
+#intro
+0:This planet has two satellites!
+1:Farewell, it was a pleasure to know you
+0:Help me instead of talking rubbish
+
+#end
+0:I must recognize we've had a very hard time
